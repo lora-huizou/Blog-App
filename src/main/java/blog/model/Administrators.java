@@ -6,6 +6,7 @@ import java.util.Date;
  * Administrators is a simple, plain old java objects (POJO).
  * Well, almost (it extends {@link Persons}).
  */
+//
 public class Administrators extends Persons {
 	protected Date lastLogin;
 	
